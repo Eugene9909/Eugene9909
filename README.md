@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 - 💻 Passionate developer with a love for Full Stack and building cool things.
 - 🌍 Based in Johannesburg.
-- 🎓 Always learning something new—currently exploring AI and LLMs.
+- 🎓 Always learning something new - currently exploring Data Science, AI and LLMs.
 - 🛠️ Favorite tools: Python, C#, JavaScript, NextJs Angular, GitHub Actions, Docker.
 
 ## 🧰 Tech Stack
