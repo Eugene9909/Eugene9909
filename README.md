@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Eugene!
+# 👋 Hi, I’m Tshilidzi Eugene Molea!
 
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 💻 Passionate developer with a love for open-source and building cool things.
-- 🌍 Based in [Your Location].
-- 🎓 Always learning something new—currently exploring [your current interests or tech stack].
-- 🛠️ Favorite tools: Python, JavaScript, GitHub Actions, Docker.
+- 🌍 Based in Johannesburg.
+- 🎓 Always learning something new—currently exploring AI and LLMs.
+- 🛠️ Favorite tools: Python, C#, JavaScript, NextJs Angular, GitHub Actions, Docker.
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
@@ -19,20 +19,15 @@ Welcome to my GitHub profile!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene9909&layout=compact&theme=tokyonight)
 
 ## 🌱 I’m currently learning
-- [Relevant technology or topic]
-- [Another technology or interest]
-
-## 🏆 Highlight Projects
-- [Project 1](https://github.com/Eugene9909/your-project) — Brief description of what it does.
-- [Project 2](https://github.com/Eugene9909/your-project) — Another project highlight.
+- Machine Learning, AI
+- Big Data and IoT
 
 ## 📫 How to reach me
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: moleaeugene@gmail.com
+- 0633380560
 
 ## 😄 Fun Facts
-- I love cats and automation!
+- I love cars, technology, and automation!
 - Always up for a hackathon or a coding challenge.
 
 ---
